@@ -1,5 +1,38 @@
-# 💫 About Me:
-Building Intelligent Web & AI Solutions | Frontend Developer | Java Programmer | GSSoC’25 Contributor | Computer Science @ MCKV Institute of Engineering<br><br>I’m Rupam Majumdar, a 3rd-year Computer Science student at MCKV Institute of Engineering, focused on building modern, AI-powered, and problem-driven web applications rather than theoretical demos.<br><br>I’ve gained hands-on industry exposure through multiple internships:<br><br>💻 Frontend Development Intern – Saiket Systems<br>Built and optimized responsive, user-focused interfaces with real performance and usability constraints.<br><br>☕ Java Development Intern – Pinnacle Labs<br>Strengthened core Java, logical problem-solving, and structured programming practices.<br><br>🤖 AI & Generative AI Intern – Ybi Foundation<br>Worked on practical AI use cases, explored generative models, and understood how AI systems move from idea to application.<br><br>Currently, I’m contributing as an Open Source Contributor at GirlScript Summer of Code 2025 (GSSoC’25), collaborating with developers on production-grade projects and real-world codebases.<br><br>🔭 Currently working on:<br>Frontend-heavy JavaScript projects, ML-based analytics systems, and hackathon-level system designs focused on safety, automation, and real-world impact.<br><br>🌱 Currently learning:<br>Advanced JavaScript, Data Structures & Algorithms, applied Machine Learning, and end-to-end system design beyond college theory.<br><br>🤝 Looking for help with:<br>Building production-ready ML pipelines, backend integration, and turning strong ideas into deployable, well-documented products.<br><br>👯 Open to collaborating on:<br>Hackathons, open-source projects, frontend applications, and ML projects that prioritize usefulness over buzzwords.<br><br>💬 Ask me about:<br>JavaScript projects, frontend UI logic, ML project structuring, hackathon ideation, or converting academic concepts into practical systems.<br><br>⚡ Fun fact:<br>I don’t chase buzzwords—I prefer building things that actually work, even if they break a few times first.<br><br>🌱 I’m actively seeking internship opportunities in software development, AI integration, and full-stack web projects, where I can both contribute and level up fast.
+## 💫 About Me
+
+**Rupam Majumdar**  
+🎓 3rd-year Computer Science student at **MCKV Institute of Engineering**  
+💻 Frontend Developer | Java Programmer | AI & ML Enthusiast  
+🌐 **GSSoC’25 Open Source Contributor**
+
+I build **production-focused web and AI systems**—not theoretical demos. My work emphasizes **real usability, performance, and deployability**.
+
+### 🧠 Experience
+- **Frontend Development Intern – Saiket Systems**  
+  Built and optimized responsive, user-centric interfaces under real performance constraints.
+- **Java Development Intern – Pinnacle Labs**  
+  Strengthened core Java, structured problem-solving, and clean coding practices.
+- **AI & Generative AI Intern – Ybi Foundation**  
+  Worked on practical AI use cases and explored the path from idea to deployment.
+
+### 🚀 What I’m Working On
+- Frontend-heavy JavaScript applications  
+- ML-based analytics systems  
+- Hackathon-level system designs focused on **safety, automation, and real-world impact**
+
+### 🌱 Currently Learning
+- Advanced JavaScript  
+- Data Structures & Algorithms  
+- Applied Machine Learning  
+- End-to-end system design beyond college theory
+
+### 🤝 Open To
+- Open-source collaboration  
+- Hackathons  
+- Frontend & ML projects that prioritize **functionality over buzzwords**
+
+⚡ **Philosophy:** I don’t chase trends—I build things that work, break, and improve.
+
 
 
 ## 🌐 Socials:
