@@ -3,7 +3,6 @@
 **Rupam Majumdar**  
 🎓 3rd-year Computer Science student at **MCKV Institute of Engineering**  
 💻 Frontend Developer | Java Programmer | AI & ML Enthusiast  
-🌐 **GSSoC’25 Open Source Contributor**
 
 I build **production-focused web and AI systems**—not theoretical demos. My work emphasizes **real usability, performance, and deployability**.
 
